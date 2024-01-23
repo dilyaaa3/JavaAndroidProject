@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Example provider</string>
+    <string name="provider_permission_decr">Give app permission to read provider</string>
+    <string name="provider_permission_label">read provider</string>
+    <string name="show_data">Показать данные</string>
+    <string name="show_contact">Показать контакты</string>
+    <string name="preference_file_key">count</string>
+
+</resources>
